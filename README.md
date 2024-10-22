@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, C/C++, asm
 - 🌱 I’m currently learning C
 - 📫 How to reach me: no way
-- 😄 Pronouns: π/πself
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 ```asm
 mov rax,0x00752076756c2069
